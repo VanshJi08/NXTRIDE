@@ -1,0 +1,13 @@
+On Windows, you can check the names of the available serial ports by opening the Device Manager (you can find this by searching for "Device Manager" in the Start menu), and expanding the "Ports (COM & LPT)" section. You should see a list of available COM ports and their corresponding names.
+
+You will need to replace "COM3" and "COM4" in the following lines of the Processing code with the correct names of the serial ports that your GPS modules are connected to:
+//code//
+myPort1 = new Serial(this, "COM3", 9600);
+myPort2 = new Serial(this, "COM4", 9600);
+//
+For example, if your GPS modules are connected to COM5 and COM6, you would replace the above lines with:
+//code//
+myPort1 = new Serial(this, "COM5", 9600);
+myPort2 = new Serial(this, "COM6", 9600);
+//
+Make sure to use the correct names of the serial ports in your system.

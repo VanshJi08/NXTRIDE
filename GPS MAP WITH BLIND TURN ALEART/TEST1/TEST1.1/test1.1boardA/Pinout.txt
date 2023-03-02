@@ -1,0 +1,11 @@
+GPS module 1:
+
+VCC: 5V
+GND: GND
+TX: Arduino digital pin 2
+RX: Arduino digital pin 3
+
+LED:
+
+Positive (+): Arduino digital pin 7
+Negative (-): GND

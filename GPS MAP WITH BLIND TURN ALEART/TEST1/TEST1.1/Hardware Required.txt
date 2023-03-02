@@ -1,0 +1,7 @@
+2x GPS modules (e.g. NEO-6M)
+2x Arduino boards (onlu Arduino Mega or Mega2560)
+1x computer with USB ports
+Jumper wires
+Breadboard (optional)
+2x antennas for the GPS modules (optional, depending on the GPS module used)
+1x active buzzer for the alarm (optional)

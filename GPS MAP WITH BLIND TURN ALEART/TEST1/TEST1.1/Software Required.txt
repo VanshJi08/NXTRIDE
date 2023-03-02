@@ -1,0 +1,5 @@
+Arduino IDE
+(libraries:
+			Adafruit_GPS.h
+			SoftwareSerial.h)
+Processing IDE

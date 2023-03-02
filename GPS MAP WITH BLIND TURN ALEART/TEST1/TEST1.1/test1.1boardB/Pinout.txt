@@ -1,0 +1,11 @@
+GPS module 2:
+
+VCC: 5V
+GND: GND
+TX: Arduino digital pin 4
+RX: Arduino digital pin 5
+
+Active buzzer:
+
+Positive (+): Arduino digital pin 6
+Negative (-): GND
