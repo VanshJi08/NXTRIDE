@@ -1,0 +1,33 @@
+Connections:
+
+Arduino UNO board
+D2: HX711 SCK pin
+D3: HX711 DT pin
+D11: Buzzer positive leg
+D12: Button pin
+A4: OLED SDA pin
+A5: OLED SCL pin
+5V: HX711 VCC pin
+5V: OLED VCC pin
+GND: HX711 GND pin
+GND: OLED GND pin
+=======================================================================
+HX711 load cell amplifier
+SCK: Arduino D2 pin
+DT: Arduino D3 pin
+VCC: Arduino 5V pin
+GND: Arduino GND pin
+=======================================================================
+OLED display
+SDA: Arduino A4 pin
+SCL: Arduino A5 pin
+VCC: Arduino 5V pin
+GND: Arduino GND pin
+=======================================================================
+Button
+Pin: Arduino D12 pin
+Other leg: Arduino GND pin via a 10k ohm resistor
+=======================================================================
+Buzzer
+Positive leg: Arduino D11 pin via a 220 ohm resistor
+Negative leg: Arduino GND pin

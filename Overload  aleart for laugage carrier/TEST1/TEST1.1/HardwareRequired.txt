@@ -1,0 +1,10 @@
+Arduino UNO board x 1
+HX711 load cell amplifier x 1
+Load cell (capable of measuring the weight of the vehicle)
+OLED display module x 1
+Push button switch x 1
+Active buzzer x 1
+220 ohm resistor x 1
+10k ohm resistor x 1
+Jumper wires
+Breadboard for prototyping
