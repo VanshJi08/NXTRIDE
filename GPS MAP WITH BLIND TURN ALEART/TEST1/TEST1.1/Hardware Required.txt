@@ -1,5 +1,6 @@
-2x GPS modules (e.g. NEO-6M)
-2x Arduino boards (onlu Arduino Mega or Mega2560)
+2x GPS modules (such as the Adafruit Ultimate GPS breakout board)
+2x Arduino boards (only Arduino Mega or Mega2560)
+2x Bluetooth modules (such as the HC-05 or HC-06)
 1x computer with USB ports
 Jumper wires
 Breadboard (optional)
